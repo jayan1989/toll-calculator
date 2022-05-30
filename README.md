@@ -12,6 +12,7 @@
    -	Checked for any future date
 3.	Implemented factory method to create instance of vehicle class depending on the vehicle type. Implementation can be found in **VehicleFactory** class.
 4.	SOLID principles have been used throughout the solution.
+5.	Added unit tests for all the services to improve the testability.
 
 # Improvements which can be done in future
 
