@@ -1,0 +1,10 @@
+﻿global using Microsoft.AspNetCore.Mvc;
+global using TollCalculator.API.Infrastructure.Enums;
+global using Autofac;
+global using TollCalculator.API.Models;
+global using TollCalculator.API.Models.Factories;
+global using TollCalculator.API.Infrastructure.Dtos;
+global using TollCalculator.API.Services;
+global using TollCalculator.API.Data;
+global using Autofac.Extensions.DependencyInjection;
+global using TollCalculator.API.IoC;

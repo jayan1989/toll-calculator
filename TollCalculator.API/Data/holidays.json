@@ -1,0 +1,52 @@
+{
+  "Holidays": [
+    {
+      "Year": 2022,
+      "Month": 1,
+      "AllDays": false,
+      "Days": [ 1 ]
+    },
+    {
+      "Year": 2022,
+      "Month": 3,
+      "AllDays": false,
+      "Days": [ 28, 29 ]
+    },
+    {
+      "Year": 2022,
+      "Month": 4,
+      "AllDays": false,
+      "Days": [ 1, 30 ]
+    },
+    {
+      "Year": 2022,
+      "Month": 5,
+      "AllDays": false,
+      "Days": [ 1, 8, 9 ]
+    },
+    {
+      "Year": 2022,
+      "Month": 6,
+      "AllDays": false,
+      "Days": [ 5, 6, 21 ]
+    },
+    {
+      "Year": 2022,
+      "Month": 7,
+      "AllDays": true,
+      "Days": []
+    },
+    {
+      "Year": 2022,
+      "Month": 11,
+      "AllDays": false,
+      "Days": [ 1 ]
+    },
+    {
+      "Year": 2022,
+      "Month": 12,
+      "AllDays": false,
+      "Days": [ 24, 25, 26, 31 ]
+    }
+  ]
+}
